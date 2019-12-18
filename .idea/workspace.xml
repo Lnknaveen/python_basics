@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e445f08d-ae5e-4564-89c6-66c7405e94a3" name="Default Changelist" comment="core python features" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1V10PETKu6Z68PyxkSFzbOumAjd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/018" />
+      <recent name="$PROJECT_DIR$/017" />
+      <recent name="$PROJECT_DIR$/016" />
+      <recent name="$PROJECT_DIR$/015" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.file_operation">
+    <configuration name="017_Classes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonFullCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file_operation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonFullCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_operation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="modules" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonFullCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modules.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="package" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonFullCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/package.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="random_values" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonFullCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random_values.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.file_operation" />
+        <item itemvalue="Python.random_values" />
+        <item itemvalue="Python.package" />
+        <item itemvalue="Python.modules" />
+        <item itemvalue="Python.017_Classes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e445f08d-ae5e-4564-89c6-66c7405e94a3" name="Default Changelist" comment="" />
+      <created>1576405267666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576405267666</updated>
+    </task>
+    <task id="LOCAL-00001" summary="core python features">
+      <created>1576612876162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576612876162</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="core python features" />
+    <option name="LAST_COMMIT_MESSAGE" value="core python features" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576412928086">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1576412928086" />
+    <state x="184" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.797@0.23.1440.797" timestamp="1576406126049" />
+    <state x="445" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576609477809">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="445" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1576609477809" />
+    <state x="445" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.797@0.23.1440.797" timestamp="1576405399149" />
+    <state x="0" y="25" key="CommitChangelistDialog2" timestamp="1576613737474">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="0" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1576612876031" />
+    <state x="0" y="25" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1576613737474" />
+    <state x="0" y="93" key="DiffContextDialog" timestamp="1576613737056">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="0" y="93" key="DiffContextDialog/0.23.1440.797@0.23.1440.797" timestamp="1576613737056" />
+    <state width="680" height="203" key="GridCell.Tab.0.bottom" timestamp="1576613225017">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="680" height="203" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576613225017" />
+    <state width="1419" height="203" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1576406282071" />
+    <state width="680" height="203" key="GridCell.Tab.0.center" timestamp="1576613225016">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="680" height="203" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1576613225016" />
+    <state width="1419" height="203" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1576406282070" />
+    <state width="680" height="203" key="GridCell.Tab.0.left" timestamp="1576613225015">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="680" height="203" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1576613225015" />
+    <state width="1419" height="203" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1576406282070" />
+    <state width="680" height="203" key="GridCell.Tab.0.right" timestamp="1576613225016">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="680" height="203" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1576613225016" />
+    <state width="1419" height="203" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1576406282071" />
+    <state width="587" height="303" key="GridCell.Tab.1.bottom" timestamp="1576439744292">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="587" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576439744292" />
+    <state width="587" height="303" key="GridCell.Tab.1.center" timestamp="1576439744291">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="587" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1576439744291" />
+    <state width="587" height="303" key="GridCell.Tab.1.left" timestamp="1576439744291">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="587" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1576439744291" />
+    <state width="587" height="303" key="GridCell.Tab.1.right" timestamp="1576439744291">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="587" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1576439744291" />
+    <state x="443" y="89" key="SettingsEditor" timestamp="1576406988011">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="443" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1576406988011" />
+    <state x="0" y="190" key="Vcs.Push.Dialog.v2" timestamp="1576612878634">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1576612878634" />
+    <state x="397" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1576698115969">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="397" y="261" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1576613305121" />
+    <state x="397" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1576698115969" />
+    <state x="757" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576435653471">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="757" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1576435653471" />
+    <state x="911" y="100" width="429" height="700" key="dock-window-1" timestamp="1576609630452">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="911" y="100" width="429" height="700" key="dock-window-1/0.0.1440.900@0.0.1440.900" timestamp="1576609630452" />
+    <state x="911" y="100" width="429" height="700" key="dock-window-2" timestamp="1576429963819">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="911" y="100" width="429" height="700" key="dock-window-2/0.0.1440.900@0.0.1440.900" timestamp="1576429963819" />
+    <state x="301" y="23" width="837" height="797" key="find.popup" timestamp="1576695437110">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="301" y="0" width="837" height="900" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1576611869848" />
+    <state x="301" y="23" width="837" height="797" key="find.popup/0.23.1440.797@0.23.1440.797" timestamp="1576695437110" />
+    <state x="791" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1576613133765">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="791" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1576613133765" />
+  </component>
+</project>
